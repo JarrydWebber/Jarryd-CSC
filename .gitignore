@@ -3,3 +3,5 @@ desktop.ini
 .gitignore
 .gitattributes
 **/
+sample*
+latex_figure.ipynb
